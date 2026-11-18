@@ -1,0 +1,13 @@
+{
+  "bootstrap": "percentile; run-level seed resampling; shared resampling indices preserve pairing",
+  "replicates": 10000,
+  "seed": 20261103,
+  "n": 30,
+  "workpoints": 480,
+  "selection_count": 144,
+  "infeasible": 5,
+  "simultaneous_band": false,
+  "evaluation_pareto": "descriptive, not selection-adjusted",
+  "source_sha256": "5cd6d6bfae0ac7eab2e01c44889fcb636c9dd116d6cfdcb02e4dc32d26257b74",
+  "numpy": "2.2.6"
+}

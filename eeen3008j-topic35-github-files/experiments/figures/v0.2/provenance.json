@@ -1,0 +1,12 @@
+{
+  "01_tradeoff": "results/v0.2/workpoint_summary.csv -> tables/v0.2/figure01_data.csv; all points for jump 0 and 2",
+  "02_maneuver": "results/v0.2/maneuver_*_trace.csv and *_events.json; prespecified seed100, deterministic single jump",
+  "03_delay_slices": "results/v0.2/slice_runs.csv -> slice_summary.csv; tuning-selected configs fixed",
+  "exports": [
+    "PDF",
+    "SVG",
+    "PNG"
+  ],
+  "matplotlib": "3.10.9",
+  "numpy": "2.2.6"
+}

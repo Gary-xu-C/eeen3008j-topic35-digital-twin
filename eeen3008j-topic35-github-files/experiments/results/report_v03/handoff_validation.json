@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "frozen_artifacts_checked": 51,
+  "selection_records": 144,
+  "feasible": 139,
+  "infeasible": 5,
+  "over_cap_evaluation_uses": 34,
+  "ablation_contrasts": 300,
+  "relation_counts": {
+    "RMSE_same__cost_higher": 75,
+    "RMSE_lower__cost_higher": 162,
+    "RMSE_same__cost_same": 27,
+    "RMSE_higher__cost_higher": 36
+  },
+  "new_simulations": 0,
+  "verification": "raw means/pairing/counts recomputed; selected intervals matched to frozen outputs; not an independent full CI recomputation"
+}

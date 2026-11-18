@@ -1,0 +1,91 @@
+{
+  "status": "completed_smoke_not_formal",
+  "version": "0.1",
+  "completed_at_utc": "2026-11-02T12:29:05.325970+00:00",
+  "python": "3.12.14",
+  "runs": 24,
+  "config": {
+    "spec_version": "0.1",
+    "status": "correctness_and_smoke_only",
+    "base": {
+      "dt": 0.01,
+      "duration": 10,
+      "period": 1,
+      "max_age": 1,
+      "error_threshold": 0.2,
+      "tolerance": 0.5,
+      "rate_bps": 3200,
+      "data_bytes": 32,
+      "ack_bytes": 16,
+      "delay": 0.05,
+      "jitter": 0,
+      "ack_delay": 0.02,
+      "loss": 0,
+      "seed": 0
+    },
+    "cases": [
+      {
+        "name": "constant_ideal",
+        "scenario": "constant",
+        "overrides": {
+          "rate_bps": null,
+          "delay": 0,
+          "ack_delay": 0
+        }
+      },
+      {
+        "name": "maneuver_ideal",
+        "scenario": "maneuver",
+        "overrides": {
+          "rate_bps": null,
+          "delay": 0,
+          "ack_delay": 0
+        }
+      },
+      {
+        "name": "constant_finite",
+        "scenario": "constant",
+        "overrides": {}
+      },
+      {
+        "name": "maneuver_finite",
+        "scenario": "maneuver",
+        "overrides": {}
+      },
+      {
+        "name": "maneuver_total_loss",
+        "scenario": "maneuver",
+        "overrides": {
+          "loss": 1
+        }
+      },
+      {
+        "name": "maneuver_ack_delay",
+        "scenario": "maneuver",
+        "overrides": {
+          "ack_delay": 0.2
+        }
+      },
+      {
+        "name": "acceleration_finite",
+        "scenario": "acceleration",
+        "jump": 0.5,
+        "overrides": {}
+      },
+      {
+        "name": "random_smoke",
+        "scenario": "random_maneuver",
+        "overrides": {
+          "seed": 7,
+          "loss": 0.2,
+          "jitter": 0.1
+        }
+      }
+    ]
+  },
+  "source_sha256": {
+    "run_baseline.py": "3227bc64a7fb7493150e0820a047a69f311b2f670cfc0c491c71a57ce3349d2a",
+    "simulator.py": "52bbff3312f3e9a60b320f160060621960f708fafef0c88cad3d33d6b44ef05f",
+    "test_simulator.py": "d39362a7c5d658adc658cc979c78ac49c4e586f3415d0b0059761e77997187cb"
+  }
+}

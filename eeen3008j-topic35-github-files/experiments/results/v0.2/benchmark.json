@@ -1,0 +1,78 @@
+{
+  "runs": 40,
+  "elapsed_s": 0.27305239997804165,
+  "config_frozen": {
+    "version": "0.2",
+    "approved_by": "coordination/\u7b2c\u4e00\u9636\u6bb5\u5ba1\u6838\u4e0e\u7b2c\u4e8c\u9636\u6bb5\u4efb\u52a1.md",
+    "frozen_date": "2026-11-03",
+    "duration": 60,
+    "dt": 0.01,
+    "jumps": [
+      0,
+      0.5,
+      1,
+      2
+    ],
+    "losses": [
+      0,
+      0.1,
+      0.3
+    ],
+    "period_age_values": [
+      0.25,
+      0.5,
+      1,
+      2,
+      4
+    ],
+    "error_values": [
+      0.05,
+      0.1,
+      0.2,
+      0.5,
+      1
+    ],
+    "tuning_seeds": "0..9",
+    "evaluation_seeds": "100..129",
+    "bootstrap_replicates": 10000,
+    "bootstrap_seed": 20261103,
+    "budgets_B_s": [
+      24,
+      48,
+      96
+    ],
+    "rate_bps": 3200,
+    "data_bytes": 32,
+    "ack_bytes": 16,
+    "delay": 0.05,
+    "ack_delay": 0.02,
+    "jitter": 0,
+    "tolerance": 0.5,
+    "representative_seed": 100,
+    "delay_slice": [
+      0,
+      0.05,
+      0.2
+    ],
+    "ack_slice": [
+      0.02,
+      0.2,
+      0.8
+    ],
+    "dt_slice": [
+      0.005,
+      0.01,
+      0.02
+    ],
+    "single_maneuver_time": 4.3,
+    "comparison": "total-byte-rate versus RMSE; not strict equal budget",
+    "feedback": "reliable delayed ACK; stop-and-wait; decision-point consistency"
+  },
+  "source_sha256": {
+    "build_v02.py": "7aeb8308d89c1674e67c1fdfe86ea83053d5883f52fcd113b839677ee224b2bb",
+    "scan_v02.py": "03c91de63bc058966615ed93a78873c3cc1ea160baed6bd7c4d42619c1a0447a",
+    "simulator_v02.py": "b6e1f4829ef8ed66c3ff50f5e87bb2ab062dfdfc5c1bb84a08bddfc6874a1d5c",
+    "test_v02.py": "87d4a39153ea59587be749ac62943452de866979bc5164a6496d8454a6dbad4f",
+    "configs\\formal_v02.json": "82d25278c3f3a87de84c85792f0bde04ee4d59d4034e9d25a2ad6ff1c5d16502"
+  }
+}

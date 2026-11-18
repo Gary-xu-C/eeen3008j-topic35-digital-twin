@@ -1,0 +1,23 @@
+test_acceleration_closed_form (test_simulator.BaselineChecks) ... ok
+test_ack_delay_creates_observable_mirror_mismatch (test_simulator.BaselineChecks) ... ok
+test_bad_configuration_rejected (test_simulator.BaselineChecks) ... ok
+test_constant_motion_exact_for_all_policies (test_simulator.BaselineChecks) ... ok
+test_counts_and_bytes_at_horizon (test_simulator.BaselineChecks) ... ok
+test_error_threshold_strict_and_age_inclusive (test_simulator.BaselineChecks) ... ok
+test_ideal_periodic_equals_age (test_simulator.BaselineChecks) ... ok
+test_maneuver_no_updates_matches_closed_form (test_simulator.BaselineChecks) ... ok
+test_old_packet_rejected (test_simulator.BaselineChecks) ... ok
+test_single_delayed_update_extrapolates_and_aoi_not_zero (test_simulator.BaselineChecks) ... ok
+test_total_loss_does_not_refresh_mirror_or_receiver (test_simulator.BaselineChecks) ... ok
+test_trace_reuse_and_reproducibility (test_simulator.BaselineChecks) ... ok
+test_bootstrap_constant_and_paired_difference (test_statistics.StatisticalChecks) ... ok
+test_tuning_budget_and_no_feasible (test_statistics.StatisticalChecks) ... ok
+test_E_constant_zero_cost (test_v02.V02Checks) ... ok
+test_E_ignores_age_and_sweep_unique (test_v02.V02Checks) ... ok
+test_all_eligible_points_consistent_and_charged (test_v02.V02Checks) ... ok
+test_original_metrics_preserved_and_record_modes_identical (test_v02.V02Checks) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.287s
+
+OK

@@ -1,0 +1,18 @@
+{
+  "spec_version": "0.1",
+  "status": "correctness_and_smoke_only",
+  "base": {"dt": 0.01, "duration": 10, "period": 1, "max_age": 1,
+    "error_threshold": 0.2, "tolerance": 0.5, "rate_bps": 3200,
+    "data_bytes": 32, "ack_bytes": 16, "delay": 0.05,
+    "jitter": 0, "ack_delay": 0.02, "loss": 0, "seed": 0},
+  "cases": [
+    {"name": "constant_ideal", "scenario": "constant", "overrides": {"rate_bps": null, "delay": 0, "ack_delay": 0}},
+    {"name": "maneuver_ideal", "scenario": "maneuver", "overrides": {"rate_bps": null, "delay": 0, "ack_delay": 0}},
+    {"name": "constant_finite", "scenario": "constant", "overrides": {}},
+    {"name": "maneuver_finite", "scenario": "maneuver", "overrides": {}},
+    {"name": "maneuver_total_loss", "scenario": "maneuver", "overrides": {"loss": 1}},
+    {"name": "maneuver_ack_delay", "scenario": "maneuver", "overrides": {"ack_delay": 0.2}},
+    {"name": "acceleration_finite", "scenario": "acceleration", "jump": 0.5, "overrides": {}},
+    {"name": "random_smoke", "scenario": "random_maneuver", "overrides": {"seed": 7, "loss": 0.2, "jitter": 0.1}}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": "report-evidence-v0.3",
+  "model_version": "0.2",
+  "new_simulations": 0,
+  "python": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+  "numpy": "2.2.6",
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 20261103,
+  "frozen_artifacts_verified": 51,
+  "ablation_comparisons": 300,
+  "selection_records": 144,
+  "source_csv_sha256": "722944d695beabee03ab2c4826ab7325eea6539a63ee9874f09b54ceaf720a7f",
+  "generator_sha256": "aafa003fc8780e79e56a8d37eeee7625690a7d9de4d38271efcae6baecdbd7dd",
+  "outputs": {
+    "results\\report_v03\\report_selected_results.csv": "e9d58dfccd4f8a3a57bea6fd1b3fb946cb0e94a530b157603a575e2f7418ce41",
+    "results\\report_v03\\fixed_eta_ablation.csv": "c0fdb3d2abfc7e1e7d0562c8f89d753e4527fdcdcb99b62db5a80ea3eb728086",
+    "report_results_table.md": "cdebab3db3b7235a7448c7d333c962c791440d0cb3ffa0af49f60dee76ee4ddd",
+    "ablation_E_EA_v03.md": "188907c5056f894b84f086704d3115e855793eff7f3f3305f51e97211afb58d1"
+  }
+}

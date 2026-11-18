@@ -1,0 +1,1154 @@
+[
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P4_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P4_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P4_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P4_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P4_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P4_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A0.5_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.5",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E0.5",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.5",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E1",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 0.5,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A0.5_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E1",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E1",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E1",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": null,
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A2_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 1.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A2_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A0.5_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 24,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.0,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 24,
+    "point_id": null,
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": null,
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.1,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A4_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 24,
+    "point_id": "periodic_P2_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 48,
+    "point_id": "periodic_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "periodic",
+    "budget": 96,
+    "point_id": "periodic_P0.5_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 24,
+    "point_id": "age_P1_A4_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 48,
+    "point_id": "age_P1_A2_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "age",
+    "budget": 96,
+    "point_id": "age_P1_A1_E0.2",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 24,
+    "point_id": null,
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 48,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "error",
+    "budget": 96,
+    "point_id": "error_P1_A1_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 24,
+    "point_id": null,
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 48,
+    "point_id": "error_age_P1_A2_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  },
+  {
+    "jump": 2.0,
+    "loss": 0.3,
+    "policy": "error_age",
+    "budget": 96,
+    "point_id": "error_age_P1_A2_E0.05",
+    "selection_source": "tuning seeds 0..9"
+  }
+]
